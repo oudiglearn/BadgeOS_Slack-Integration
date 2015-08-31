@@ -1,4 +1,4 @@
-###BadgeOS Add-on
+#BadgeOS Add-on
 Contributors: StewartJohn
 Donate link: http://badgeos.org/contribute/donate/
 Tags: badge, badges, openbadges, credly, OBI, mozilla, open badges, achievement, award, reward, engagement, submission, nomination, API, open, Slack, credit, credit, badgeOS
