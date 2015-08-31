@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/agpl-3.0.html
 
 This add-on to BadgeOS pushes achievement notifications to Slack
 
-###Description
+#Description
 
 This add-on to [BadgeOS plugin](http://wordpress.org/extend/plugins/badgeos/ "BadgeOS") automatically pushes achievement notifications to the Slack messenger service.
 
@@ -46,7 +46,7 @@ BadgeOS Add-On is made available by [Credly, LLC](https://credly.com/ "Credly we
 ###Screenshots
 1. Results In Action
 
-###Changelog ==
+###Changelog
 = 0.1.0 =
 
 
