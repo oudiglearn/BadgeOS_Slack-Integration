@@ -1,4 +1,4 @@
-=== BadgeOS Add-on ===
+###BadgeOS Add-on
 Contributors: StewartJohn
 Donate link: http://badgeos.org/contribute/donate/
 Tags: badge, badges, openbadges, credly, OBI, mozilla, open badges, achievement, award, reward, engagement, submission, nomination, API, open, Slack, credit, credit, badgeOS
@@ -10,13 +10,13 @@ License URI: http://www.gnu.org/licenses/agpl-3.0.html
 
 This add-on to BadgeOS pushes achievement notifications to Slack
 
-== Description ==
+###Description
 
 This add-on to [BadgeOS plugin](http://wordpress.org/extend/plugins/badgeos/ "BadgeOS") automatically pushes achievement notifications to the Slack messenger service.
 
 [Get the BadgeOS plugin](http://wordpress.org/extend/plugins/badgeos/ "BadgeOS").
 
-= Resources / Helpful Links =
+###Resources / Helpful Links
 
 BadgeOS Add-On is made available by [Credly, LLC](https://credly.com/ "Credly web site"). Here are some ways to stay connected and to see what else we are up to:
 
@@ -24,7 +24,7 @@ BadgeOS Add-On is made available by [Credly, LLC](https://credly.com/ "Credly we
 * [Credly.com](https://credly.com/ "Credly web site") - Manage lifelong credentials that matter
 * [BadgeOS on GitHub](https://github.com/opencredit/badgeos "BadgeOS on GitHub") - Report issues, contribute code
 
-== Installation ==
+###Installation
 
 1. Unpack the entire contents of this plugin zip file into your `wp-content/plugins/` folder locally
 1. Upload to your site
@@ -32,7 +32,7 @@ BadgeOS Add-On is made available by [Credly, LLC](https://credly.com/ "Credly we
 1. Activate this plugin
 
 
-== Frequently Asked Questions ==
+###Frequently Asked Questions
 = Setup A New Slack WebHook =
 1. Go To `https://.slack.com/services/new/incoming-webhook`
 1. Create a new webhook
@@ -43,10 +43,10 @@ BadgeOS Add-On is made available by [Credly, LLC](https://credly.com/ "Credly we
 1. Go to settings->badgeOS Slack
 1. Paste the webhook URL into the form.
 
-== Screenshots ==
+###Screenshots
 1. Results In Action
 
-== Changelog ==
+###Changelog ==
 = 0.1.0 =
 
 
